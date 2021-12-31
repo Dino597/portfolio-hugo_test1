@@ -1,0 +1,11 @@
+copyright = "© 2020 Copyright."
+description = "Portfolio and personal blog of Dino."
+
+#openGraph pour le style du lien vers le Portfolio sur d'autre site (ex: discord)
+#TODO: mettre un vrai lien et une vrai image
+[openGraph]
+	title = "Dino's Blog"
+	type = "website"
+	description = "Portfolio and personal blog of Dino."
+	image = "images/author/john.png"
+	url = "https://hugo-toha.github.io"

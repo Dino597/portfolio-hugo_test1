@@ -1,0 +1,23 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Portfolio'
+theme = 'toha'
+
+enableEmoji = true
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+[markup.tableOfContents]
+startLevel = 2
+endLevel = 6
+ordered = false
+
+[params]
+gitRepo = "https://github.com/hugo-toha/hugo-toha.github.io"
+enableBlogPost = true
+enableTOC = true
+
+  [params.newsletter]
+  enable = false

@@ -1,0 +1,15 @@
+name = "Dino El h."
+nickname = "Dino"
+greeting = "Hi, I am"
+
+summary = [
+  "I am a Developer",
+  "I am a Java Developer",
+  "I work on open-source projects",
+  "I love to work with some fun projects",
+  "I love to work with a team"
+]
+
+[contactInfo]
+	email = "elhdino@gmail.com"
+	linkedin = "dino-elh"
