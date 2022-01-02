@@ -1,8 +1,10 @@
 copyright = "© 2020 Copyright."
 description = "Portfolio and personal blog of Dino."
+
+#openGraph pour le style du lien vers le Portfolio sur d'autre site (ex: discord)
 [openGraph]
-description = "Portfolio and personal blog of Dino."
-image = "https://cdn.discordapp.com/attachments/451429773239910410/927232730629025833/logo_de_3_.png"
-title = "Dino's Blog"
-type = "website"
-url = "https://hugo-toha.github.io"
+	title = "Dino's Blog"
+	type = "website"
+	description = "Portfolio and personal blog of Dino."
+	image = "images/author/logo_de_3_.png"
+	url = "https://hugo-toha.github.io"

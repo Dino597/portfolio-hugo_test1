@@ -2,7 +2,6 @@ copyright = "© 2020 Copyright."
 description = "Portfolio et blog de Dino."
 
 #openGraph pour le style du lien vers le Portfolio sur d'autre site (ex: discord)
-#TODO: mettre un vrai lien et une vrai image
 [openGraph]
 	title = "Portfolio de Dino"
 	type = "website"
