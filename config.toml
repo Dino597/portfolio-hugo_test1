@@ -1,33 +1,26 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'Portfolio'
-theme = 'toha'
-
+baseURL = "https://dino-elh.netlify.app/"
 enableEmoji = true
-
-[logo]
-	main = "images/site/logo_de_3_.png"
-	inverted = "images/site/logo_de_4_.png"
-	favicon = "images/site/logo_de_4_.png"
-
+languageCode = "en-us"
+theme = "toha"
+title = "Portfolio"
 [languages.en]
 languageName = "English"
 weight = 1
-
 [languages.fr]
 languageName = "French"
 weight = 2
-
+[logo]
+favicon = "images/site/logo_de_4_.png"
+inverted = "images/site/logo_de_4_.png"
+main = "images/site/logo_de_3_.png"
 [markup.tableOfContents]
-startLevel = 2
 endLevel = 6
 ordered = false
-
+startLevel = 2
 [params]
-gitRepo = "https://github.com/hugo-toha/hugo-toha.github.io"
+background = "https://cdn.discordapp.com/attachments/451429773239910410/927233091452403782/background.jpg"
 enableBlogPost = true
 enableTOC = true
-background ="images/site/background.jpg"
-
-  [params.newsletter]
-  enable = false
+gitRepo = "https://github.com/Dino597/portfolio-hugo_test1"
+[params.newsletter]
+enable = false
