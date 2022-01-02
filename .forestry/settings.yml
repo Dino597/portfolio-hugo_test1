@@ -19,6 +19,10 @@ sections:
   label: Pages
   create: all
   match: "*"
+- type: heading
+  label: fr
+- type: heading
+  label: en
 upload_dir: assets
 public_path: "/uploads"
 front_matter_path: ''
