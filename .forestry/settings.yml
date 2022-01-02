@@ -24,7 +24,6 @@ sections:
 - type: document
   path: data/fr/site.toml
   label: site
-  match: "**/*"
 - type: document
   path: data/fr/author.toml
   label: author
@@ -38,11 +37,9 @@ sections:
 - type: document
   path: data/en/site.toml
   label: site
-  match: "**/*"
 - type: document
   path: data/en/author.toml
   label: author
-  match: "**/*"
 upload_dir: assets
 public_path: "/uploads"
 front_matter_path: ''
