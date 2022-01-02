@@ -6,8 +6,8 @@ showOnNavbar = true
 weight = 2
 [[skills]]
 logo = ""
-name = "HTML, CSS, JavaScript"
-summary = ""
+name = "HTML, CSS"
+summary = "Je maitrise les languages web front-end et je les ai utilisé de nombreuse fois pour divers sites et projets."
 url = ""
 [[skills]]
 logo = ""
