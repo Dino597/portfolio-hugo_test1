@@ -1,5 +1,5 @@
 [section]
-name = "Skills"
+name = "Compétences"
 id = "skills"
 enable = true
 weight = 2
@@ -7,13 +7,13 @@ showOnNavbar = true
 
 [[skills]]
 name = "Kubernetes"
-#logo = "/images/sections/skills/kubernetes.png"
+logo = "/images/sections/skills/kubernetes.png"
 summary = "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
 url = "https://kubernetes.io/"
 
 [[skills]]
 name = "Go Development"
-#logo = "/images/sections/skills/go.png"
+logo = "/images/sections/skills/go.png"
 summary = "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
 url = "https://golang.org/"
 

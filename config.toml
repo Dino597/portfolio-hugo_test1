@@ -5,9 +5,18 @@ theme = 'toha'
 
 enableEmoji = true
 
+[logo]
+	main = "images/site/logo_de_3_.png"
+	inverted = "images/site/logo_de_4_.png"
+	favicon = "images/site/logo_de_4_.png"
+
 [languages.en]
 languageName = "English"
 weight = 1
+
+[languages.fr]
+languageName = "French"
+weight = 2
 
 [markup.tableOfContents]
 startLevel = 2

@@ -1,5 +1,6 @@
 name = "Dino El h."
 nickname = "Dino"
+image = "images/author/logo_de_3_.png"
 greeting = "Hi, I am"
 
 summary = [

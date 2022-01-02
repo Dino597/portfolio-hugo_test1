@@ -1,20 +1,20 @@
 [section]
-name = "Projects"
+name = "Projets"
 id = "projects"
 enable = true
 weight = 4
 showOnNavbar = true
 
 [[buttons]]
-name = "All"
+name = "Tous"
 filter = "all"
 
 [[buttons]]
-name = "Professional"
+name = "Professionnel"
 filter = "professional"
 
 [[buttons]]
-name = "Academic"
+name = "Scolaire"
 filter = "academic"
 
 [[buttons]]
@@ -27,7 +27,7 @@ logo = "/images/sections/projects/kubernetes.png"
 role = "Contributor"
 timeline = "March 2018 - Present"
 repo = "https://github.com/kubernetes/kubernetes"
-summary = "Production-Grade Container Scheduling and Management."
+summary = "Production-Grade Container Scheduling and Management. et d'autre truc"
 tags = [ "professional", "kubernetes", "cloud" ]
 
 [[projects]]
