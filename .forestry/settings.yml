@@ -22,15 +22,26 @@ sections:
   create: all
   match: "**/*"
 - type: document
+  path: data/fr/site.toml
+  label: site
+  match: "**/*"
+- type: document
   path: data/fr/author.toml
   label: author
-  match: "**/*"
 - type: heading
   label: en
 - type: directory
   path: data/en/sections
   label: sections
   create: all
+  match: "**/*"
+- type: document
+  path: data/en/site.toml
+  label: site
+  match: "**/*"
+- type: document
+  path: data/en/author.toml
+  label: author
   match: "**/*"
 upload_dir: assets
 public_path: "/uploads"
