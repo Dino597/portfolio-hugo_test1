@@ -21,13 +21,13 @@ sections:
   label: sections
   create: all
   match: "**/*"
-- type: document
-  path: data/fr/sections/about.toml
-  label: about
-  match: "**/*"
-  read_only: false
 - type: heading
   label: en
+- type: directory
+  path: data/en/sections
+  label: sections
+  create: all
+  match: "**/*"
 upload_dir: assets
 public_path: "/uploads"
 front_matter_path: ''
