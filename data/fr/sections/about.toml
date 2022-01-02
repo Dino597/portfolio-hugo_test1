@@ -1,35 +1,28 @@
 designation = "étudiant en informatique"
-#resume = "files/resume.pdf"
 summary = "I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc."
-
-[section]
-name = "About"
-id = "about"
-enable = true
-weight = 1
-showOnNavbar = true
-template = "sections/about.html"
-
 [company]
 name = "IUT de Lens"
 url = "http://www.iut-lens.univ-artois.fr/"
-
+[section]
+enable = true
+id = "about"
+name = "À propos"
+showOnNavbar = true
+template = "sections/about.html"
+weight = 1
 [[socialLinks]]
-name = "Email"
 icon = "fas fa-envelope"
+name = "Email"
 url = "elhdino@gmail.com"
-
 [[socialLinks]]
-name = "LinkedIn"
 icon = "fab fa-linkedin"
+name = "LinkedIn"
 url = "https://www.linkedin.com/in/dino-elh/"
-
 [[softSkills]]
+color = "blue"
 name = "Leadership"
 percentage = 85
-color = "blue"
-
 [[softSkills]]
+color = "yellow"
 name = "Team Work"
 percentage = 90
-color = "yellow"
