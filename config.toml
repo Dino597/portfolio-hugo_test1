@@ -18,7 +18,7 @@ endLevel = 6
 ordered = false
 startLevel = 2
 [params]
-background = "https://cdn.discordapp.com/attachments/451429773239910410/927233091452403782/background.jpg"
+background = "images/site/background.jpg"
 enableBlogPost = true
 enableTOC = true
 gitRepo = "https://github.com/Dino597/portfolio-hugo_test1"
