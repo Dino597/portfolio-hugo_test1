@@ -21,6 +21,10 @@ sections:
   label: sections
   create: all
   match: "**/*"
+- type: document
+  path: data/fr/author.toml
+  label: author
+  match: "**/*"
 - type: heading
   label: en
 - type: directory
