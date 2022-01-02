@@ -1,4 +1,4 @@
-designation = "étudiant en informatique"
+designation = "Étudiant en informatique"
 summary = "I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc."
 [company]
 name = "IUT de Lens"
