@@ -27,6 +27,7 @@ ordered = false
 gitRepo = "https://github.com/hugo-toha/hugo-toha.github.io"
 enableBlogPost = true
 enableTOC = true
+background ="images/site/background.jpg"
 
   [params.newsletter]
   enable = false
