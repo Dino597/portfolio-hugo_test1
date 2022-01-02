@@ -21,6 +21,11 @@ sections:
   label: sections
   create: all
   match: "**/*"
+- type: document
+  path: data/fr/sections/about.toml
+  label: about
+  match: "**/*"
+  read_only: false
 - type: heading
   label: en
 upload_dir: assets
