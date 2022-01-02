@@ -14,13 +14,13 @@ sections:
   label: Posts
   create: all
   match: "**/*"
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
 - type: heading
   label: fr
+- type: directory
+  path: data/fr/sections
+  label: sections
+  create: all
+  match: "**/*"
 - type: heading
   label: en
 upload_dir: assets
