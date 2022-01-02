@@ -6,6 +6,11 @@ showOnNavbar = true
 weight = 2
 [[skills]]
 logo = ""
+name = "Arduino"
+summary = "L'une de mes premieres experiences avec la programmation était avec Arduino. J'ai très vite appris à faire mes propres projets et bricoler de petits systèmes pour m'amuser et m'entrainer."
+url = ""
+[[skills]]
+logo = ""
 name = "C"
 summary = "Le C est le language que j'ai le plus utilisé lors de mes études à l'IG2I. J'ai effectué beaucoup de projet à l'aide de ce language."
 url = ""
