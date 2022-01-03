@@ -6,6 +6,11 @@ showOnNavbar = true
 weight = 2
 [[skills]]
 logo = ""
+name = "NodeJS"
+summary = "J'ai récemment commencé à apprendre à utiliser NodeJs en autodidacte."
+url = ""
+[[skills]]
+logo = ""
 name = "MySQL, PL/SQL"
 summary = "J'ai appris à utiliser MySQL à l'IG2I et PL/SQL à l'IUT de Lens, j'ai donc pu utiliser les deux lors de multiple TP et projets."
 url = ""
