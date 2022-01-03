@@ -17,13 +17,13 @@ name = "Scolaire"
 filter = "hobby"
 name = "Hobby"
 [[projects]]
-logo = "images/sections/projects/arduino.png"
-name = "Panneau solaire Automatique"
-repo = ""
-role = ""
-summary = "Dans le cadre d'un projet de groupe, nous avons réalisé un panneau solaire qui suivait le soleil afin de convertir le plus d'énergie solaire possible."
-tags = ["academic", "team", "arduino"]
-timeline = "Mars 2020"
+logo = "images/site/logo_de_3_.png"
+name = "Ce portfolio"
+repo = "https://github.com/Dino597/portfolio-hugo_test1"
+role = "Développeur"
+summary = "J'avais besoin d'un site web sur lequel poster mes projets et mettre en avant mes compétences. Après quelques recherche j'ai découvert Hugo et j'ai décider d'apprendre à l'utiliser et je l'ai utiliser pour faire ce site."
+tags = ["hobby", "web", "site", "hugo"]
+timeline = "Décembre 2021"
 [[projects]]
 logo = "images/sections/projects/MW.jpg"
 name = "Marathon Web"
@@ -41,6 +41,14 @@ summary = "J'ai créé un bot discord utilisant nodejs ainsi que le module [Disc
 tags = ["hobby", "js", "nodejs"]
 timeline = "Aout 2020 - Aujourd'hui"
 [[projects]]
+logo = "images/sections/projects/arduino.png"
+name = "Panneau solaire Automatique"
+repo = ""
+role = ""
+summary = "Dans le cadre d'un projet de groupe, nous avons réalisé un panneau solaire qui suivait le soleil afin de convertir le plus d'énergie solaire possible."
+tags = ["academic", "team", "arduino"]
+timeline = "Mars 2020"
+[[projects]]
 logo = "images/sections/projects/galerie-africain-lille-logo3.png"
 name = "Galerie d'Art"
 repo = ""
@@ -48,11 +56,3 @@ role = "Développeur"
 summary = "Lors de mes études à l'IG2I, j'ai eu l'occasion de concevoir un site web Dynamique en groupe pour un client extérieur à l'école."
 tags = ["academic", "professional", "team", "web"]
 timeline = "Avril 2020"
-[[projects]]
-logo = "images/site/logo_de_3_.png"
-name = "Ce portfolio"
-repo = "https://github.com/Dino597/portfolio-hugo_test1"
-role = "Développeur"
-summary = "J'avais besoin d'un site web sur lequel poster mes projets et mettre en avant mes compétences. Après quelques recherche j'ai découvert Hugo et j'ai décider d'apprendre à l'utiliser et je l'ai utiliser pour faire ce site."
-tags = ["hobby", "web", "site", "hugo"]
-timeline = "Décembre 2021"
