@@ -1,16 +1,8 @@
+greeting = "Bonjour, Je suis"
+image = "images/author/logo_de_3_.png"
 name = "Dino El h."
 nickname = "Dino"
-image = "images/author/logo_de_3_.png"
-greeting = "Bonjour, Je suis"
-
-summary = [
-  "Je suis un développeur",
-  "Je suis un développeur Java",
-  "I work on open-source projects",
-  "I love to work with some fun projects",
-  "J'aime travailler en équipe"
-]
-
+summary = ["Je suis un développeur.", "Je suis un développeur Java.", "J'aime travailler en équipe.", "J'aime sortir de ma zone de confort."]
 [contactInfo]
-	email = "elhdino@gmail.com"
-	linkedin = "dino-elh"
+email = "elhdino@gmail.com"
+linkedin = "dino-elh"

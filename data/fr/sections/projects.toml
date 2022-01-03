@@ -17,13 +17,21 @@ name = "Scolaire"
 filter = "hobby"
 name = "Hobby"
 [[projects]]
+logo = "images/sections/projects/arduino.png"
+name = "Panneau solaire Automatique"
+repo = ""
+role = ""
+summary = "Dans le cadre d'un projet de groupe, nous avons réalisé un panneau solaire qui suivait le soleil afin de convertir le plus d'énergie solaire possible."
+tags = ["academic", "team", "arduino"]
+timeline = "Mars 2020"
+[[projects]]
 logo = "images/sections/projects/MW.jpg"
 name = "Marathon Web"
 repo = ""
 role = "Développeur"
 summary = "J'ai participé au marathon web de l'IUT de Lens, un projet de groupe d'une durée de 48h dont l'objectif est de concevoir et développer un site web. Nous avons donc réalisé un site de critique de film/séries."
 tags = ["academic", "team", "web"]
-timeline = ""
+timeline = "Décembre 2021"
 [[projects]]
 logo = "images/sections/projects/Discord-Logo-Color.png"
 name = "Bot Discord"
@@ -39,7 +47,7 @@ repo = ""
 role = "Développeur"
 summary = "Lors de mes études à l'IG2I, j'ai eu l'occasion de concevoir un site web Dynamique en groupe pour un client extérieur à l'école."
 tags = ["academic", "professional", "team", "web"]
-timeline = ""
+timeline = "Avril 2020"
 [[projects]]
 logo = "images/site/logo_de_3_.png"
 name = "Ce portfolio"
