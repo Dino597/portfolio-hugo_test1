@@ -17,7 +17,7 @@ name = "Scolaire"
 filter = "hobby"
 name = "Hobby"
 [[projects]]
-logo = ""
+logo = "images/site/logo_de_3_.png"
 name = "Ce portfolio"
 repo = "https://github.com/Dino597/portfolio-hugo_test1"
 role = ""
