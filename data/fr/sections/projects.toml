@@ -17,6 +17,14 @@ name = "Scolaire"
 filter = "hobby"
 name = "Hobby"
 [[projects]]
+logo = ""
+name = "Galerie d'Art"
+repo = ""
+role = "Développeur"
+summary = ""
+tags = ["équipe", "academic"]
+timeline = ""
+[[projects]]
 logo = "images/site/logo_de_3_.png"
 name = "Ce portfolio"
 repo = "https://github.com/Dino597/portfolio-hugo_test1"
