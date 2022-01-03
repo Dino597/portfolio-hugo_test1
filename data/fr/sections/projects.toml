@@ -18,12 +18,12 @@ filter = "hobby"
 name = "Hobby"
 [[projects]]
 logo = ""
-name = ""
+name = "Panneau solaire Automatique"
 repo = ""
 role = ""
-summary = ""
-tags = ""
-timeline = ""
+summary = "Dans le cadre d'un projet de groupe, nous avons réalisé un panneau solaire qui suivait le soleil afin de convertir le plus d'énergie solaire possible."
+tags = ["academic", "team", "arduino"]
+timeline = "Mars 2020"
 [[projects]]
 logo = "images/sections/projects/MW.jpg"
 name = "Marathon Web"
