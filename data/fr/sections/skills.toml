@@ -6,6 +6,11 @@ showOnNavbar = true
 weight = 2
 [[skills]]
 logo = ""
+name = "MySQL, PL/SQL"
+summary = "J'ai appris à utiliser MySQL à l'IG2I et PL/SQL à l'IUT de Lens, j'ai donc pu utiliser les deux lors de multiple TP et projets."
+url = ""
+[[skills]]
+logo = ""
 name = "JavaScript"
 summary = "Je maitrise le JavaScript et je l'utilise sur la majorité de mes sites web mais aussi sur d'autres projets comme mon bot Discord."
 url = ""
