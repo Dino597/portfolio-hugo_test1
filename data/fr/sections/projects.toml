@@ -21,7 +21,7 @@ logo = ""
 name = "Bot Discord"
 repo = ""
 role = "Développeur"
-summary = "J'ai créé un bot discord utilisant nodejs ainsi que le module discord.js. À l'origine il était conçu pour lancer des dés dans l'objectif d'etre utilisé lors de partie de jeu de role en ligne, mais il a évolué et a maintenant une multitude d'utilités. "
+summary = "J'ai créé un bot discord utilisant nodejs ainsi que le module [Discord.js](https://discord.js.org/). À l'origine il était conçu pour lancer des dés dans l'objectif d'etre utilisé lors de partie de jeu de role en ligne, mais il a évolué et a maintenant une multitude d'utilités. "
 tags = ["hobby", "js", "nodejs"]
 timeline = "Aout 2020 - Aujourd'hui"
 [[projects]]
