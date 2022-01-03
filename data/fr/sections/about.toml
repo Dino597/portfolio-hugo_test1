@@ -1,6 +1,6 @@
 designation = "Étudiant en informatique"
-summary = "Passioné par l’informatique depuis mon enfance. Je travaille principalement en Java, mais j’apprecie aussi d’autres languages comme le JavaScript, le C, ou l’Arduino. J’apprends souvent en autodidacte, mais j’apprécie aussi faire partie d’une équipe."
 resume = "files/CV_fr.pdf"
+summary = "Passioné par l’informatique depuis mon enfance. Je travaille principalement en Java, mais j’apprecie aussi d’autres languages comme le JavaScript, le C, ou l’Arduino. J’apprends souvent en autodidacte, mais j’apprécie aussi faire partie d’une équipe."
 [company]
 name = "IUT de Lens"
 url = "http://www.iut-lens.univ-artois.fr/"
@@ -19,6 +19,10 @@ url = "elhdino@gmail.com"
 icon = "fab fa-linkedin"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/dino-elh/"
+[[socialLinks]]
+icon = "fab fa-github"
+name = "Github"
+url = "https://github.com/Dino597"
 [[softSkills]]
 color = "yellow"
 name = "Travail D'équipe"
