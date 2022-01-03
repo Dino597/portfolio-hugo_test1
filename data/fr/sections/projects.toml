@@ -17,7 +17,7 @@ name = "Scolaire"
 filter = "hobby"
 name = "Hobby"
 [[projects]]
-logo = ""
+logo = "images/sections/projects/arduino.png"
 name = "Panneau solaire Automatique"
 repo = ""
 role = ""
