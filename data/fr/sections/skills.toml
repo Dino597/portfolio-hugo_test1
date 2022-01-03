@@ -6,18 +6,28 @@ showOnNavbar = true
 weight = 2
 [[skills]]
 logo = ""
+name = "Java"
+summary = "Java est le langage que j'utilise le plus et est l'un de mes langages préféré. Je l'utilise beaucoup dans le cadre de mes études à l'IUT de Lens, mais aussi parfois pour des projets personnels."
+url = ""
+[[skills]]
+logo = ""
+name = "C"
+summary = "Le C est le langage que j'ai le plus utilisé lors de mes études à l'IG2I. J'ai effectué beaucoup de projets à l'aide de ce langage."
+url = ""
+[[skills]]
+logo = ""
 name = "NodeJS"
 summary = "J'ai récemment commencé à apprendre à utiliser NodeJs en autodidacte."
 url = "https://nodejs.dev/"
 [[skills]]
 logo = ""
-name = "MySQL, PL/SQL"
-summary = "J'ai appris à utiliser MySQL à l'IG2I et PL/SQL à l'IUT de Lens, j'ai donc pu utiliser les deux lors de multiple TP et projets."
+name = "JavaScript"
+summary = "Je maîtrise le JavaScript et je l’utilise sur la majorité de mes sites web, mais aussi sur d’autres projets comme mon bot Discord."
 url = ""
 [[skills]]
 logo = ""
-name = "JavaScript"
-summary = "Je maîtrise le JavaScript et je l’utilise sur la majorité de mes sites web, mais aussi sur d’autres projets comme mon bot Discord."
+name = "MySQL, PL/SQL"
+summary = "J'ai appris à utiliser MySQL à l'IG2I et PL/SQL à l'IUT de Lens, j'ai donc pu utiliser les deux lors de multiple TP et projets."
 url = ""
 [[skills]]
 logo = ""
@@ -29,13 +39,3 @@ logo = ""
 name = "Arduino"
 summary = "L'une de mes premières expériences avec la programmation était avec Arduino. J'ai très vite appris à faire mes propres projets et à bricoler de petits systèmes pour m'amuser et m'entraîner."
 url = "https://www.arduino.cc/"
-[[skills]]
-logo = ""
-name = "C"
-summary = "Le C est le langage que j'ai le plus utilisé lors de mes études à l'IG2I. J'ai effectué beaucoup de projets à l'aide de ce langage."
-url = ""
-[[skills]]
-logo = ""
-name = "Java"
-summary = "Java est le langage que j'utilise le plus et est l'un de mes langages préféré. Je l'utilise beaucoup dans le cadre de mes études à l'IUT de Lens, mais aussi parfois pour des projets personnels."
-url = ""
