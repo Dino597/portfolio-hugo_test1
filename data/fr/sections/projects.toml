@@ -47,7 +47,7 @@ repo = ""
 role = "Développeur"
 summary = "Lors de mes études à l'IG2I, j'ai eu l'occasion de concevoir un site web Dynamique en groupe pour un client extérieur à l'école."
 tags = ["academic", "professional", "team", "web"]
-timeline = ""
+timeline = "Avril 2020"
 [[projects]]
 logo = "images/site/logo_de_3_.png"
 name = "Ce portfolio"
