@@ -19,10 +19,10 @@ icon = "fab fa-linkedin"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/dino-elh/"
 [[softSkills]]
-color = "blue"
-name = "Leadership"
-percentage = 85
-[[softSkills]]
 color = "yellow"
-name = "Team Work"
-percentage = 90
+name = "Travail D'équipe"
+percentage = "85"
+[[softSkills]]
+color = "red"
+name = "Anglais"
+percentage = "90"
