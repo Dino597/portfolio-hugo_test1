@@ -21,7 +21,7 @@ logo = ""
 name = "Ce portfolio"
 repo = "https://github.com/Dino597/portfolio-hugo_test1"
 role = ""
-summary = "J'avais besoin d'un site web sur lequel poster mes projets et mettre en avant mes compétences. Après quelques recherche j'ai découvert Hugo et j'ai décider d'apprendre à l'utiliser et je l'ai utiliser pour faire ce site"
+summary = "J'avais besoin d'un site web sur lequel poster mes projets et mettre en avant mes compétences. Après quelques recherche j'ai découvert Hugo et j'ai décider d'apprendre à l'utiliser et je l'ai utiliser pour faire ce site."
 tags = ["Hobby", "Web", "Site", "Hugo"]
 timeline = "Décembre 2021"
 [[projects]]
