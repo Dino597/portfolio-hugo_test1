@@ -18,6 +18,14 @@ filter = "hobby"
 name = "Hobby"
 [[projects]]
 logo = ""
+name = "Bot Discord"
+repo = ""
+role = "Développeur"
+summary = "J'ai créé un bot discord utilisant nodejs ainsi que le module discord.js. À l'origine il était conçu pour lancer des dés dans l'objectif d'etre utilisé lors de partie de jeu de role en ligne, mais il a évolué et a maintenant une multitude d'utilités. "
+tags = ["hobby", "js", "nodejs"]
+timeline = "Aout 2020 - Aujourd'hui"
+[[projects]]
+logo = ""
 name = "Galerie d'Art"
 repo = ""
 role = "Développeur"
@@ -32,27 +40,3 @@ role = "Développeur"
 summary = "J'avais besoin d'un site web sur lequel poster mes projets et mettre en avant mes compétences. Après quelques recherche j'ai découvert Hugo et j'ai décider d'apprendre à l'utiliser et je l'ai utiliser pour faire ce site."
 tags = ["hobby", "web", "site", "hugo"]
 timeline = "Décembre 2021"
-[[projects]]
-logo = "/images/sections/projects/kubernetes.png"
-name = "Kubernetes"
-repo = "https://github.com/kubernetes/kubernetes"
-role = "Contributor"
-summary = "Production-Grade Container Scheduling and Management. et d'autre truc"
-tags = ["professional", "kubernetes", "cloud"]
-timeline = "March 2018 - Present"
-[[projects]]
-logo = "/images/sections/projects/tensorflow.png"
-name = "Tensorflow"
-repo = "https://github.com/tensorflow/tensorflow"
-role = "Developer"
-summary = "An Open Source Machine Learning Framework for Everyone."
-tags = ["professional", "machine-learning", "academic"]
-timeline = "Jun 2018 - Present"
-[[projects]]
-logo = "/images/sections/projects/toha.png"
-name = "Toha"
-repo = "https://github.com/hossainemruz/toha"
-role = "Owner"
-summary = "A Hugo theme for personal portfolio."
-tags = ["hobby", "hugo", "theme", "professional"]
-timeline = "Jun 2019 - Present"
