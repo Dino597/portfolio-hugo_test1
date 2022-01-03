@@ -25,7 +25,7 @@ summary = "J'ai participé au marathon web de l'IUT de Lens, un projet de groupe
 tags = ["academic", "team", "web"]
 timeline = ""
 [[projects]]
-logo = ""
+logo = "images/sections/projects/Discord-Logo-Color.png"
 name = "Bot Discord"
 repo = ""
 role = "Développeur"
