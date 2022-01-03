@@ -17,7 +17,7 @@ name = "Scolaire"
 filter = "hobby"
 name = "Hobby"
 [[projects]]
-logo = ""
+logo = "images/sections/projects/MW.jpg"
 name = "Marathon Web"
 repo = ""
 role = "Développeur"
