@@ -8,7 +8,7 @@ weight = 2
 logo = ""
 name = "NodeJS"
 summary = "J'ai récemment commencé à apprendre à utiliser NodeJs en autodidacte."
-url = ""
+url = "https://nodejs.dev/"
 [[skills]]
 logo = ""
 name = "MySQL, PL/SQL"
