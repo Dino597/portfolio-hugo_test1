@@ -33,7 +33,7 @@ summary = "J'ai créé un bot discord utilisant nodejs ainsi que le module [Disc
 tags = ["hobby", "js", "nodejs"]
 timeline = "Aout 2020 - Aujourd'hui"
 [[projects]]
-logo = ""
+logo = "images/sections/projects/galerie-africain-lille-logo3.png"
 name = "Galerie d'Art"
 repo = ""
 role = "Développeur"
