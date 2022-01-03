@@ -21,7 +21,7 @@ logo = ""
 name = "Marathon Web"
 repo = ""
 role = "Développeur"
-summary = "J'ai participé au marathon web de l'IUT de Lens, un projet de groupe d'une durée de 48h dont l'objectif est de concevoir et développer un site web. Nous avons donc réalisé un site de critique de film/séries "
+summary = "J'ai participé au marathon web de l'IUT de Lens, un projet de groupe d'une durée de 48h dont l'objectif est de concevoir et développer un site web. Nous avons donc réalisé un site de critique de film/séries."
 tags = ["academic", "team", "web"]
 timeline = ""
 [[projects]]
