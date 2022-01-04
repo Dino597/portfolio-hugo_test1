@@ -2,7 +2,7 @@ copyright = "© 2020 Copyright."
 description = "Portfolio et blog de Dino."
 [openGraph]
 description = "Portfolio et blog de Dino."
-image = "images/author/logo_de_3_.png"
+image = "/images/author/logo_de_3__hu90e76a5003237f935aeebfc9533ae0be_23576_148x148_fit_box_3.png"
 title = "Portfolio de Dino"
 type = "website"
 url = "https://dino-elh.netlify.app/fr/"
