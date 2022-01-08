@@ -6,6 +6,11 @@ showOnNavbar = true
 weight = 2
 [[skills]]
 logo = ""
+name = "Python, TensorFlow"
+summary = "J'ai appris à utiliser python au lycée et j'ai appris à utiliser keras à l'IUT"
+url = ""
+[[skills]]
+logo = ""
 name = "Java"
 summary = "Java est le langage que j'utilise le plus et est l'un de mes langages préféré. Je l'utilise beaucoup dans le cadre de mes études à l'IUT de Lens, mais aussi parfois pour des projets personnels."
 url = ""
