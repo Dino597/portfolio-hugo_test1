@@ -2,7 +2,7 @@ designation = "Étudiant en informatique"
 resume = "files/CV_fr.pdf"
 summary = "Passionné par l’informatique depuis mon enfance. Je travaille principalement en Java, mais j’apprecie aussi d’autres langages comme le JavaScript, le C, ou le Python. J’apprends souvent en autodidacte, mais j’apprécie aussi faire partie d’une équipe."
 [company]
-name = "IUT de Lens"
+name = "L'IUT de Lens"
 url = "http://www.iut-lens.univ-artois.fr/"
 [section]
 enable = true

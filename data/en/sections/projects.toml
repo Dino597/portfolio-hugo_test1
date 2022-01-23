@@ -1,49 +1,19 @@
+projects = []
 [section]
-name = "Projects"
-id = "projects"
 enable = true
-weight = 4
+id = "projects"
+name = "Projects"
 showOnNavbar = true
-
+weight = 4
 [[buttons]]
-name = "All"
 filter = "all"
-
+name = "All"
 [[buttons]]
-name = "Professional"
 filter = "professional"
-
+name = "Professional"
 [[buttons]]
-name = "Academic"
 filter = "academic"
-
+name = "Academic"
 [[buttons]]
-name = "Hobby"
 filter = "hobby"
-
-[[projects]]
-name = "Kubernetes"
-logo = "/images/sections/projects/kubernetes.png"
-role = "Contributor"
-timeline = "March 2018 - Present"
-repo = "https://github.com/kubernetes/kubernetes"
-summary = "Production-Grade Container Scheduling and Management."
-tags = [ "professional", "kubernetes", "cloud" ]
-
-[[projects]]
-name = "Tensorflow"
-logo = "/images/sections/projects/tensorflow.png"
-role = "Developer"
-timeline = "Jun 2018 - Present"
-repo = "https://github.com/tensorflow/tensorflow"
-summary = "An Open Source Machine Learning Framework for Everyone."
-tags = [ "professional", "machine-learning", "academic" ]
-
-[[projects]]
-name = "Toha"
-logo = "/images/sections/projects/toha.png"
-role = "Owner"
-timeline = "Jun 2019 - Present"
-repo = "https://github.com/hossainemruz/toha"
-summary = "A Hugo theme for personal portfolio."
-tags = [ "hobby", "hugo", "theme", "professional" ]
+name = "Hobby"
