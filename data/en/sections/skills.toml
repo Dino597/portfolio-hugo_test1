@@ -8,3 +8,37 @@ weight = 2
 name = "Java"
 summary = "Used as a main programming language."
 url = ""
+[[skills]]
+logo = ""
+name = "C"
+summary = ""
+url = ""
+[[skills]]
+name = "NodeJS"
+summary = "I recently started to learn how to use NodeJs."
+url = ""
+[[skills]]
+logo = ""
+name = "JavaScript"
+summary = ""
+url = ""
+[[skills]]
+logo = ""
+name = "MySQL, PL/SQL"
+summary = ""
+url = ""
+[[skills]]
+logo = ""
+name = "HTML, CSS"
+summary = ""
+url = ""
+[[skills]]
+logo = ""
+name = "Arduino"
+summary = ""
+url = ""
+[[skills]]
+logo = ""
+name = "Python, TensorFlow"
+summary = ""
+url = ""
