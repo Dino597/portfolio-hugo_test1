@@ -25,7 +25,7 @@ url = ""
 [[skills]]
 logo = ""
 name = "MySQL, PL/SQL"
-summary = ""
+summary = "I Know how to use both of these languages and I've used them on multiple web projects."
 url = ""
 [[skills]]
 logo = ""
@@ -35,10 +35,10 @@ url = ""
 [[skills]]
 logo = ""
 name = "Arduino"
-summary = ""
+summary = "Arduino is one of the first programming languages I've learned, I've used it on many small project for academic or personal purposes."
 url = ""
 [[skills]]
 logo = ""
 name = "Python, TensorFlow"
-summary = ""
+summary = "I use python since high-school, it's one of the first languages I've learned, since then I have learned to use keras with the objectif of learning about neural networks"
 url = ""
