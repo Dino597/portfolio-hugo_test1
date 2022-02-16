@@ -19,7 +19,7 @@ url = "elhdino@gmail.com"
 icon = "fab fa-linkedin"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/dino-elh/"
-[[softSkills]]
+[[softLinks]]
 icon = "fab fa-github"
 name = "Github"
 url = "https://github.com/Dino597"
