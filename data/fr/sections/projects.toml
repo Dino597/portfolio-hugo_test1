@@ -22,7 +22,7 @@ name = "Snake"
 repo = ""
 role = "Développeur"
 summary = "J'ai fait le jeu \"snake\" en java pour m'entraîner pendant mes vacances. Je l'ai fini rapidement donc j'ai décidé d'ajouter des fonctionnalités comme un menu pour modifier la vitesse du jeu ou la taille de l'arène et j'ai aussi ajouté un tableau des meilleurs scores."
-tags = ["Hobby", "java"]
+tags = ["hobby", "java"]
 timeline = "Février 2022"
 [[projects]]
 logo = "images/site/logo_de_3_.png"
