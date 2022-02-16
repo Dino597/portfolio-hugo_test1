@@ -18,18 +18,10 @@ filter = "hobby"
 name = "Hobby"
 [[projects]]
 logo = ""
-name = ""
-repo = ""
-role = ""
-summary = ""
-tags = ""
-timeline = ""
-[[projects]]
-logo = ""
 name = "Snake"
 role = "Developer"
 summary = "I have made a snake game in java during my Holidays. I finished it quickly so i decided to add new features like a settings menu to change the size of the arena or the speed of the snake. "
-tags = ["Hobby", "Java"]
+tags = ["hobby", "java"]
 timeline = "February 2022"
 [[projects]]
 logo = "images/site/logo_de_3_.png"
