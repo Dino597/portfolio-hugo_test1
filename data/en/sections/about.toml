@@ -20,6 +20,10 @@ icon = "fab fa-linkedin"
 name = "LinkedIn"
 url = "https://www.linkedin.com/in/dino-elh/"
 [[softSkills]]
+icon = "fab fa-github"
+name = "Github"
+url = "https://github.com/Dino597"
+[[softSkills]]
 color = "yellow"
 name = "Team Work"
 percentage = "85"
