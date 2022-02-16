@@ -6,9 +6,10 @@ greeting = "Hi, I am"
 summary = [
   "I am a Developer",
   "I am a Java Developer",
-  "I work on open-source projects",
+  "I work with Gitlab and GitHub",
   "I love to work with some fun projects",
-  "I love to work with a team"
+  "I love to work with a team",
+  "I love learning new things"
 ]
 
 [contactInfo]
