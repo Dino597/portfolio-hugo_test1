@@ -1,4 +1,3 @@
-projects = []
 [section]
 enable = true
 id = "projects"
@@ -17,3 +16,18 @@ name = "Academic"
 [[buttons]]
 filter = "hobby"
 name = "Hobby"
+[[projects]]
+logo = ""
+name = "Snake"
+role = "Developer"
+summary = "I have made a snake game in java during my Holidays. I finished it quickly so i decided to add new features like a settings menu to change the size of the arena or the speed of the snake. "
+tags = ["Hobby", "Java"]
+timeline = "February 2022"
+[[projects]]
+logo = "images/site/logo_de_3_.png"
+name = "This portfolio"
+repo = "https://github.com/Dino597/portfolio-hugo_test1"
+role = "Developer"
+summary = "I needed a web site "
+tags = ""
+timeline = "December 2021"
