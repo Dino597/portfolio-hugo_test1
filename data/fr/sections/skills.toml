@@ -6,6 +6,11 @@ showOnNavbar = true
 weight = 2
 [[skills]]
 logo = ""
+name = "Angular"
+summary = "Je suis actuellement en train d'apprendre Angular, et étant déjà habitué à JavaScript, j'arrive à l'apprendre et à comprendre rapidement. Et j'apprécie déjà de travailler en Angular."
+url = ""
+[[skills]]
+logo = ""
 name = "Java"
 summary = "Java est le langage que j'utilise le plus et est l'un de mes langages préféré. Je l'utilise beaucoup dans le cadre de mes études à l'IUT de Lens, mais aussi parfois pour des projets personnels."
 url = ""
